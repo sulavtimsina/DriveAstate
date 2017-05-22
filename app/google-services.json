@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "398240234212",
+    "firebase_url": "https://emailauthapp.firebaseio.com",
+    "project_id": "emailauthapp",
+    "storage_bucket": "emailauthapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398240234212:android:b249eebe5bb3db79",
+        "android_client_info": {
+          "package_name": "com.example.sulavtimsina.driveastate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398240234212-036c7kdohbl5e3vsn3s50582tmut4did.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sulavtimsina.driveastate",
+            "certificate_hash": "088fe5cef0f7e6ac240b00b082af4d3fbd8585bc"
+          }
+        },
+        {
+          "client_id": "398240234212-02daqho1596sokv7bpbsfh2glo0dqejs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAroNnqCrNBpiL1sLuApWmKxv3qQAUxerY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398240234212-02daqho1596sokv7bpbsfh2glo0dqejs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

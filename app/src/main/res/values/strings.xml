@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DriveAstate</string>
+    <string name="regDriver">Register As Driver</string>
+    <string name="request_drive">Request Drive</string>
+</resources>
